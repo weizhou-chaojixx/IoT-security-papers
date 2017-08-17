@@ -1,6 +1,6 @@
 # IoT-security-papers
-research and survey papers related to IoT security from 2012 to the first half of 2017
-papers in our study are from the following resources:
+Research and survey papers related to IoT security from 2012 to the first half of 2017 in our study can be seen in excel file.
+Papers are the following resources:
 Conference papers  
 CCS  ACM Conference on Computer and Communications Security  
 S&P  IEEE Symposium on Security and Privacy   
