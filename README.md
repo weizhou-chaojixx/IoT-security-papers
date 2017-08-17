@@ -12,8 +12,7 @@ DSN  The International Conference on Dependable Systems and Networks
 CSFW  IEEE Computer Security Foundations Workshop  
 AISACRYPT  Annual International Conference on the Theory and Application of Cryptologyand Information Security  
 RAID  International Symposium on Recent Advances in Intrusion Detection  
-PETS  Privacy Enhancing Technologies Symposium  
-  
+PETS  Privacy Enhancing Technologies Symposium   
 SIOT INTERNATIONAL WORKSHOP ON SECURE INTERNET OF THINGS    
   
 Journal papers  
