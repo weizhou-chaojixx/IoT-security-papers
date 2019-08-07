@@ -1,4 +1,8 @@
 # IoT security recommended reading list from 2012 to the 2017
+This repos includes a collection of papers related to Internet of Things security and privacy. 
+If you have any suggestions or recommended paper, please send a pull request.
+This repos is now maintained by Wei Zhou and Yan Jia.
+
 
 Papers are the following resources:
 
