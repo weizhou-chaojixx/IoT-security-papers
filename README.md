@@ -28,7 +28,7 @@ AsiaCCS ACM Symposium on Information, Computer and Communications Security
 ## Workshop
 CSFW  IEEE Computer Security Foundations Workshop  
 SIOT INTERNATIONAL WORKSHOP ON SECURE INTERNET OF THINGS     
-IoT S&P  Workshop on Internet of Things Security and Privacy   
+[IoT S&P  Workshop on Internet of Things Security and Privacy](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)   
 ## Journal papers  
 
 TDSC IEEE Transactions on Dependable and Secure Computing  
