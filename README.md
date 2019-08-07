@@ -6,7 +6,8 @@ This repos is now maintained by Wei Zhou and Yan Jia.
 
 Papers are gathered manually from the following resources:
 (We refer to the [Computer Security Conference Ranking and Statistic.](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) maintained by Guofei Gu.)
-## Top Conference papers:
+
+## Top Conferences:
 
 ### Rank1 
 CCS  ACM Conference on Computer and Communications Security  
@@ -24,11 +25,11 @@ RAID  International Symposium on Recent Advances in Intrusion Detection
 PETS  Privacy Enhancing Technologies Symposium   
 AsiaCCS ACM Symposium on Information, Computer and Communications Security
 
-### Workshop
+## Workshop
 CSFW  IEEE Computer Security Foundations Workshop  
 SIOT INTERNATIONAL WORKSHOP ON SECURE INTERNET OF THINGS     
-  
-### Journal papers  
+IoT S&P  Workshop on Internet of Things Security and Privacy   
+## Journal papers  
 
 TDSC IEEE Transactions on Dependable and Secure Computing  
 TIFS IEEE Transactions on Information Forensics and Security  
