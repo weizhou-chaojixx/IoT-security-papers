@@ -14,14 +14,21 @@
 3. Boot Attestation: Secure Remote Reporting with Off-The-Shelf IoT Sensors
 4. SePCAR: A Secure and Privacy-enhancing Protocol for Car Access Provision
 5. Privacy Implications of Room Climate Data
-	
+## 2016
+1. A Lightweight Authentication Protocol for CAN  
+2. Privacy,Discovery,and Authentication for the Internet of Things  
+3. Secure Code Updates for Mesh Networked Commodity Low-End Embedded Devices  
+4. Authenticated Key Argeement Mediated By a Proxy Re-Encryptor for the internet of Things  
+## 2015-2014
+None
+
 # RAID	
 ## 2018	
 1. Malicious IoT Implants: Tampering with Serial Communication over the Internet
 2. Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape
 3. Statistical Similarity of Critical Infrastructure Network Traffic Based on Nearest Neighbor Distances
 
-## 2017	
+## 2017-2014
 None.
 	
 # ACSAC	
@@ -34,7 +41,12 @@ None.
 2. VulCAN: Efficient Component Authentication and Software Isolation for Automotive Control Networks
 3. HoloPair: Securing Shared Augmented Reality Using Microsoft HoloLens
 4. Enforcing Cyber-Physical Execution Semantics to Defend Against Data-Oriented Attacks
-	
+
+## 2016
+1. Formal security analysis of smart embedded system
+2. An ultra-lightweight white-box Encryption Scheme for Resource-constrained IOT Devices
+## 2015
+1. Using Channel State Information for Tamper Detection in the Internet of Things
 # DSN	
 ## 2019	 
 1. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users 
@@ -47,13 +59,19 @@ None.
 3. Hands Off the Wheel in Autonomous Vehicles? A Systems Perspective of Field-Data Over Million Miles
 4. Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction
 5. Impact of Software Approximations on the Resiliency of a Video Summarization System
-##2017	
+## 2017	
 None
-	
+## 2016
+1. Formal Analysis for Dependable Supervisory Control and Data Acqusition in Smart Grids
+2. A Framework for Detecting Electricity Theft Attacks in Smart Grids
+3. Energy Rssilience Modeling for Modeling for Smart Houses
+4. Smart TV Analysis Practical Experiments
+5. Lightweight Memory Checkpointing
+
 # PETS	
 ## 2018
 None
-##2017	
+## 2017	
 None
 	
 	
