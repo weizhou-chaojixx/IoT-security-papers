@@ -1,4 +1,4 @@
-# IoT security recommended reading list from 2012 to the 2017
+# IoT security recommended reading list from 2014 to the 2019
 This repos includes a collection of papers related to Internet of Things (IoT) security and privacy, aiming to provide a up-to-date reading list for IoT security researchers. 
 If you have any suggestions or recommendations, please send a pull request or issue. We thank for your contribution.
 This repos is now maintained by Wei Zhou and Yan Jia.
@@ -26,13 +26,13 @@ AsiaCCS ACM Symposium on Information, Computer and Communications Security
 
 ### Workshop
 CSFW  IEEE Computer Security Foundations Workshop  
-SIOT INTERNATIONAL WORKSHOP ON SECURE INTERNET OF THINGS    
+SIOT INTERNATIONAL WORKSHOP ON SECURE INTERNET OF THINGS     
   
 ### Journal papers  
 
-TDSC IEEE Transactions on Dependable and Secure Computing
-TIFS IEEE Transactions on Information Forensics and Security
-TISSEC ACM Transactions on Information and System Security
-Computers & Security
-JCS Journal of Computer Security
-Internet of things journal
+TDSC IEEE Transactions on Dependable and Secure Computing  
+TIFS IEEE Transactions on Information Forensics and Security  
+TISSEC ACM Transactions on Information and System Security  
+Computers & Security  
+JCS Journal of Computer Security  
+Internet of things journal  
