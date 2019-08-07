@@ -19,7 +19,7 @@ NDSS  ISOC Network and Distributed System Security Symposium
 ESORICS  European Symposium on Research in Computer Security  
 ACSAC  Annual Computer Security Applications Conference  
 DSN  The International Conference on Dependable Systems and Networks  
-IMC Internet Measurement Conference
+IMC Internet Measurement Conference  
 AISACRYPT  Annual International Conference on the Theory and Application of Cryptologyand Information Security  
 RAID  International Symposium on Recent Advances in Intrusion Detection  
 PETS  Privacy Enhancing Technologies Symposium   
