@@ -11,3 +11,8 @@
 8. ContexIoT: Towards Providing Contextual Integrity to Appiﬁed IoT Platforms
 
 ## Rank2
+1. Privacy,Discovery,and Authentication for the Internet of Things
+2. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users
+3. Smart TV Analysis Practical Experiments
+4. Study of Misbinding Attacks on Secure Device Pairing
+5. Smart Locks: Lessons for Securing Commodity Internet of Things Devices
