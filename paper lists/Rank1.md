@@ -31,7 +31,8 @@
 5.All Things Considered: An Analysis of IoT Devices on Home Networks    
 6.JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT     
 7.Evaluating the Contextual Integrity of Privacy Regulation: Parents' IoT Toy Privacy Norms Versus COPPA  
-8.Understanding and Improving Security and Privacy in Multi-User Smart Homes: A Design Exploration and In-Home User Study   
+8.Understanding and Improving Security and Privacy in Multi-User Smart Homes: A Design Exploration and In-Home User Study  
+9.Understanding and Securing Device Vulnerabilities through Automated Bug Report Analysis  
 ## 2018
 1.BlackIoT: IoT Botnet of High Wattage Devices Can Disrupt the Power Grid.  
 2.Skill Squatting Attacks on Amazon Alexa  
