@@ -49,6 +49,9 @@
 ## 2014
 1.A Large-Scale Analysis of the Security of Embedded Firmwares  
 # NDSS
+## 2020
+1.Packet-Level Signatures for Smart Home Devices
+2.SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves
 ## 2019
 1.Nearby Threats: Reversing, Analyzing, and Attacking Google’s ‘Nearby Connections’ on Android  
 2.IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT  
