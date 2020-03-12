@@ -11,6 +11,10 @@
 1.Security Analysis of Emerging Smart Home Applications  
 
 # CCS
+## 2019
+1.Watching You Watch: The  Tr acki ng Ecosyste m of Over-the-Top TV Streaming Devices  
+2.Charting t he  At t ack Sur face  of Tr i gge r -Act i on IoT Platforms  
+3.
 ## 2018
 1.On the Safety of IoT Device Physical Interaction Control  
 2.Situational Access Control in the Internet of Things  
@@ -24,7 +28,7 @@
 1.When Good Becomes Evil: Keystroke Inference with Smar twatch  
 # Usenix
 ## 2020 (not complete)
-1. Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT  
+1.Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT  
 
 ## 2019
 1.FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation  
