@@ -23,6 +23,9 @@
 ## 2015
 1.When Good Becomes Evil: Keystroke Inference with Smar twatch  
 # Usenix
+## 2020 (not complete)
+1. Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT  
+
 ## 2019
 1.FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation  
 2.Not Everything is Dark and Gloomy: Power Grid Protections Against IoT Demand Attacks  
