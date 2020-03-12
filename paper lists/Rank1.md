@@ -12,9 +12,11 @@
 
 # CCS
 ## 2019
-1.Watching You Watch: The  Tr acki ng Ecosyste m of Over-the-Top TV Streaming Devices  
-2.Charting t he  At t ack Sur face  of Tr i gge r -Act i on IoT Platforms  
-3.
+1.Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices  
+2.Charting the Attack Surface of Trigger-Action IoT Platforms  
+3.Automatic Fingerprinting of Vulnerable BLE IoT Devices with Static UUIDs from Mobile Apps  
+4.Trick or Heat? Manipulating Critical  Temperature-Based Control  Systems using Rectification attacks  
+
 ## 2018
 1.On the Safety of IoT Device Physical Interaction Control  
 2.Situational Access Control in the Internet of Things  
