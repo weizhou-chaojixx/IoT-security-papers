@@ -66,7 +66,7 @@
 # NDSS
 ## 2020
 1.Packet-Level Signatures for Smart Home Devices  
-2.SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves
+2.SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves  
 3.Metamorph: Injecting Inaudible Commands into Over-the-air Voice Controlled Systems  
 4.Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors  
 
