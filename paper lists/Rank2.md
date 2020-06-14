@@ -37,6 +37,16 @@ None
 None.
 	
 # ACSAC	
+## 2019
+1. Proof of Aliveness  
+2. Co-Evaluation of Pattern Matching Algorithms on IoT Devices with Embedded GPUs  
+3. Aegis: A Context-aware Security Framework for Smart Home Systems  
+4. Defeating Hidden Audio Channel Attacks on Voice Assistants via Audio-Induced Surface Vibrations  
+5. The Chatty-Sensor: A Provably-covert Channel in Cyber Physical Systems  
+6. HDMI-WALK: Attacking HDMI Distribution Networks via Consumer Electronic Control Protocol  
+7. Out of Control: Stealthy Attacks Against Robotic Vehicles Protected by Control-based Techniques  
+8. WooKey: Designing a Trusted and Efficient USB Device  
+
 ## 2018	
 1. Using Sensor and Process Noise Fingerprint to Detect Stealthy Cyber Attacks andAuthenticate sensors in CPS
 2. Finding Dependencies between Cyber-Physical Domains for Security Testing of Industrial ControlSystems
