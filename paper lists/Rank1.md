@@ -1,4 +1,9 @@
 # Oakland S&P
+## 2020
+1.Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products  
+2.Ask the Experts: What Should Be on an IoT Privacy and Security Label?  
+3.Burglars' IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds  
+4.Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses  
 ## 2019
 1.SoK: Security Evaluation of Home-Based IoT Deployment  
 2.Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems  
