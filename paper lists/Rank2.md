@@ -23,6 +23,11 @@
 None
 
 # RAID	
+## 2019
+1.Toward the Analysis of Embedded Firmware through Automated Re-hosting  
+2.CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices  
+3.Smart Malware that Uses Leaked Control Data of Robotic Applications: The Case of Raven-II Surgical Robots  
+
 ## 2018	
 1. Malicious IoT Implants: Tampering with Serial Communication over the Internet
 2. Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape
