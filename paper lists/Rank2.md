@@ -77,7 +77,13 @@ None
 	
 	
 # IMC	
+## 2019
+1.Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach  
 ## 2018
+None
+## 2017
+1.An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance  
+## 2016 and before
 None
 	
 # AsiaCCS	
